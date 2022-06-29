@@ -54,4 +54,6 @@ app.*.map.json
 *test/
 *web/
 *windows/
+pubspec.yaml
+pubspec.lock
 analysis_options.yaml
